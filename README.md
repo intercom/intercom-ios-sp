@@ -1,4 +1,4 @@
-![Intercom](Examples/Sample-ObjC/Sample-ObjC/Images.xcassets/Intercom-logo-github.imageset/Intercom_logo-github.png)
+![Intercom](https://user-images.githubusercontent.com/6392766/92717163-af7b0200-f357-11ea-9dc3-6f86d0c21d96.png)
 
 ## Installation
 
