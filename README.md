@@ -1,0 +1,20 @@
+![Intercom](Examples/Sample-ObjC/Sample-ObjC/Images.xcassets/Intercom-logo-github.imageset/Intercom_logo-github.png)
+
+## Installation
+
+Intercom for iOS supports iOS 13+. 
+Xcode 14 is required to build Intercom iOS SDK.
+The binary size for Intercom is **2.3MB**.
+
+Add `https://github.com/intercom/intercom-ios-sp` as a Swift Package Repository in Xcode and follow the instructions to add `Intercom` as a Swift Package.
+
+## Setup and Configuration
+
+* Our [installation guide](https://developers.intercom.com/docs/ios-installation) contains full setup and initialisation instructions.
+* Read ["Configuring Intercom for iOS"](https://developers.intercom.com/docs/ios-configuration).
+* Read our guide on [Push Notifications](https://developers.intercom.com/docs/ios-push-notifications).
+*  Please contact us on [Intercom](https://intercom.io) with any questions you may have, we're only a message away!
+
+## Customer Support
+
+👋  Contact us with any issues at our [Intercom Developer Hub available here](https://developers.intercom.com/docs/intercom-mobile-installation?utm_source=github&utm_campaign=ios-help). If you bump into any problems or need more support, just start a conversation using Intercom there and it will be immediately routed to our Customer Support Engineers.
