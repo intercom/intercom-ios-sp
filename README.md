@@ -2,9 +2,8 @@
 
 ## Installation
 
-Intercom for iOS supports iOS 13+. 
-Xcode 14 is required to build Intercom iOS SDK.
-The binary size for Intercom is **2.3MB**.
+Intercom for iOS supports iOS 15+. 
+Xcode 15 is required to build Intercom iOS SDK.
 
 Add `https://github.com/intercom/intercom-ios-sp` as a Swift Package Repository in Xcode and follow the instructions to add `Intercom` as a Swift Package.
 
