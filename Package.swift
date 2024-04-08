@@ -14,7 +14,7 @@ let package = Package(
         .binaryTarget(
             name: "Intercom",
             url: "https://github.com/intercom/intercom-ios/releases/download/16.4.0/Intercom.xcframework.zip",
-            checksum: "4f8c0ad7bb331565a7f15130a488ef207711dd77760e3ef7ced993e13952c870"
+            checksum: "bd81b16d481bffd9b6fffdffd213d3f3c2c901a97aba18f95796ab6ab9f0c8c8"
         )
     ]
 )
